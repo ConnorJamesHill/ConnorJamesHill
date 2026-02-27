@@ -60,4 +60,4 @@ Jamesconnorhill@gmail.com
 
 ---
 
-> I build apps like products — not projects.
+> Have a nice day. :)

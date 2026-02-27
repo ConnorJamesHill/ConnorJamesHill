@@ -26,7 +26,6 @@ A full scale loyalty platform connecting businesses and customers through QR bas
 - Modular feature organization
 - Business & customer dual interface architecture
 - Scalable punch validation logic
-- Production ready codebase
 
 ### Core Features
 - Business QR scanning system

@@ -36,10 +36,10 @@ A full scale loyalty platform connecting businesses and customers through QR bas
 - Multi location business support
 
 App Store:  
-https://apps.apple.com/us/app/perk-punch/id6746662386  
+https://apps.apple.com/us/app/perk-punch/id6746662386
 
 Repository:  
-https://github.com/ConnorJamesHill/ConnorJamesHill  
+https://github.com/ConnorJamesHill/PerkPunch
 
 ---
 

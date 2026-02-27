@@ -3,8 +3,6 @@
 
 I build production level iOS applications with a strong emphasis on clean architecture, scalability, and long term maintainability.
 
-My focus is building real products.
-
 ---
 
 ## Tech Stack

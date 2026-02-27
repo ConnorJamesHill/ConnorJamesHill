@@ -21,22 +21,21 @@ My focus is building real products.
 
 ## Featured Project: Perk Punch
 
-A full-scale loyalty platform connecting businesses and customers through QR-based punch cards.
+A full scale loyalty platform connecting businesses and customers through QR based punch cards.
 
 ### Architecture Highlights
 - Clean MVVM separation
-- Protocol-driven dependency injection
 - Modular feature organization
-- Business & customer dual-interface architecture
+- Business & customer dual interface architecture
 - Scalable punch validation logic
-- Production-ready codebase
+- Production ready codebase
 
 ### Core Features
 - Business QR scanning system
 - Customer reward tracking
 - Universal punch system
 - Stats dashboards
-- Multi-location business support
+- Multi location business support
 
 App Store:  
 https://apps.apple.com/us/app/perk-punch/id6746662386  
